@@ -1,3 +1,4 @@
+---
 ## تشخیص رنگ با پایتون 🌈
 
 [](https://github.com/EhsanNaderlou/profile_images/blob/master/color.jpg)
@@ -6,8 +7,3 @@
 <a href="https://drive.google.com/file/d/12cYrAj9dFCLTKUrRwwPUsadl0sRt14j5/view?usp=drive_link">Download EXE File</a>
 
 ---
-🔴ویدیویی ای عملکرد پروژه :
-
-![](https://github.com/EhsanNaderlou/profile_images/blob/master/color.gif)
-https://github.com/EhsanAiDev/color_detection
-# color_detection
